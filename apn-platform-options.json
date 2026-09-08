@@ -1,0 +1,30 @@
+{
+  "options": [
+    {
+      "text": "Choose…",
+      "value": ""
+    },
+    {
+      "text": "Website",
+      "value": "Website"
+    },
+    {
+      "text": "Android",
+      "value": "Android"
+    },
+    {
+      "text": "Huawei / HarmonyOS",
+      "value": "HarmonyOS"
+    },
+    {
+      "text": "iOS (iPhone, iPad)",
+      "value": "iOS"
+    },
+    {
+      "text": "macOS",
+      "value": "macOS"
+    }
+  ],
+  "required": true,
+  "selectHTML": "<select id=\"where\" name=\"where\" required=\"\" tabindex=\"1\">\n<option value=\"\">Choose…</option>\n<option value=\"Website\">Website</option>\n<option value=\"Android\">Android</option>\n<option value=\"HarmonyOS\">Huawei / HarmonyOS</option>\n<option value=\"iOS\">iOS (iPhone, iPad)</option>\n<option value=\"macOS\">macOS</option>\n</select>"
+}
