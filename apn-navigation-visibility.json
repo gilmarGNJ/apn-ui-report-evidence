@@ -1,0 +1,51 @@
+{
+  "url": "https://apn.tech/",
+  "observedAt": "2026-09-08T00:20Z",
+  "browser": "Microsoft Edge; exact version recorded separately if available",
+  "mobile": {
+    "requestedViewport": {
+      "width": 375,
+      "height": 812
+    },
+    "visiblePrivacy": false,
+    "dom": {
+      "clientWidth": 360,
+      "linkHTML": "<a href=\"/privacy\">Privacy</a>",
+      "linkRect": {
+        "bottom": 0,
+        "height": 0,
+        "left": 0,
+        "right": 0,
+        "top": 0,
+        "width": 0,
+        "x": 0,
+        "y": 0
+      },
+      "privacyLinkCount": 1,
+      "siteBuild": "715bff3"
+    }
+  },
+  "desktop": {
+    "requestedViewport": {
+      "width": 1100,
+      "height": 900
+    },
+    "visiblePrivacy": true,
+    "dom": {
+      "clientWidth": 1085,
+      "linkHTML": "<a href=\"/privacy\">Privacy</a>",
+      "linkRect": {
+        "bottom": 1016.546875,
+        "height": 21,
+        "left": 667.453125,
+        "right": 731.71875,
+        "top": 995.546875,
+        "width": 64.265625,
+        "x": 667.453125,
+        "y": 995.546875
+      },
+      "privacyLinkCount": 1,
+      "siteBuild": "715bff3"
+    }
+  }
+}
